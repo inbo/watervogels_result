@@ -1,0 +1,72 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - analysis
+  - winter
+  - month
+  hash: 13203eed0e8bd3f8bdf46fe877cd4487be512d64
+  data_hash: 6b8447b837747997a13b24c8a766607758496f8a
+  name: imputed_total_month
+  title: Imputed total results per month
+winter:
+  class: integer
+  description: The winter season. Refers to the year of Januari 1st.
+month:
+  class: factor
+  labels:
+  - January
+  - Februari
+  - March
+  - October
+  - November
+  - December
+  index:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  ordered: no
+  description: The month of the winter season.
+median:
+  class: numeric
+  digits: 4
+  description: The median of the imputed total.
+min:
+  class: numeric
+  digits: 4
+  description: The minimum of the imputed total.
+q05:
+  class: numeric
+  digits: 4
+  description: The 5th percentile of the imputed total.
+q20:
+  class: numeric
+  digits: 4
+  description: The 20th percentile of the imputed total.
+q35:
+  class: numeric
+  digits: 4
+  description: The 35th percentile of the imputed total.
+q65:
+  class: numeric
+  digits: 4
+  description: The 65th percentile of the imputed total.
+q80:
+  class: numeric
+  digits: 4
+  description: The 80th percentile of the imputed total.
+q95:
+  class: numeric
+  digits: 4
+  description: The 95th percentile of the imputed total.
+max:
+  class: numeric
+  digits: 4
+  description: The maximum of the imputed total.
+analysis:
+  class: character
+  description: The unique identifier of the analysis. Links to the analysis table.
