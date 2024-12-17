@@ -1,0 +1,43 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - analysis
+  - duration
+  - centre_start
+  - centre_end
+  hash: a50d1f06ba3b3094ebdeee86d7e8149237b35636
+  data_hash: dfd5e9fbeb329fd2552f66e850b9c236d0893ea9
+  name: difference
+  title: Difference results
+analysis:
+  class: character
+  description: The unique identifier of the analysis. Links to the analysis table.
+centre_start:
+  class: numeric
+  digits: 5
+  description: The centre of the winter of the start period.
+centre_end:
+  class: numeric
+  digits: 5
+  description: The centre of the winter of the end period.
+duration:
+  class: integer
+  description: The duration of the period in years.
+estimate:
+  class: numeric
+  digits: 4
+  description: The estimate of the parameter in the log-scale.
+se:
+  class: numeric
+  digits: 4
+  description: The standard error of the estimate in the log-scale.
+lcl:
+  class: numeric
+  digits: 4
+  description: The lower confidence limit in the log-scale.
+ucl:
+  class: numeric
+  digits: 4
+  description: The upper confidence limit in the log-scale.

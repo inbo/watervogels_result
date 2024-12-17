@@ -1,0 +1,38 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - analysis
+  - duration
+  - centre_winter
+  hash: 7fdb7b1f1009a72d40c4515a9df76c2f0bfa3ca9
+  data_hash: 60c3f43db2c23a3ccbe20370015dbe63d5ce884d
+  name: trend
+  title: Trend results
+analysis:
+  class: character
+  description: The unique identifier of the analysis. Links to the analysis table.
+centre_winter:
+  class: numeric
+  digits: 5
+  description: The centre of the winter season.
+duration:
+  class: integer
+  description: The duration of the trend.
+estimate:
+  class: numeric
+  digits: 4
+  description: The estimate of the parameter in the log-scale.
+se:
+  class: numeric
+  digits: 4
+  description: The standard error of the estimate in the log-scale.
+lcl:
+  class: numeric
+  digits: 4
+  description: The lower confidence limit in the log-scale.
+ucl:
+  class: numeric
+  digits: 4
+  description: The upper confidence limit in the log-scale.

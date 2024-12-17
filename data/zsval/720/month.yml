@@ -1,0 +1,48 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - analysis
+  - month
+  hash: 6131672af10881688031497d5334a452d392e959
+  data_hash: 468b8b2d0e317cd3453d3b937ea085839c4d367b
+  name: month
+  title: Average seasonal pattern
+analysis:
+  class: character
+  description: The unique identifier of the analysis. Links to the analysis table.
+month:
+  class: factor
+  labels:
+  - October
+  - November
+  - December
+  - January
+  - February
+  - March
+  index:
+  - 1
+  - 2
+  - 3
+  - 4
+  - 5
+  - 6
+  ordered: no
+  description: The month of the winter season.
+estimate:
+  class: numeric
+  digits: 4
+  description: The estimate of the parameter in the log-scale.
+se:
+  class: numeric
+  digits: 4
+  description: The standard error of the estimate in the log-scale.
+lcl:
+  class: numeric
+  digits: 4
+  description: The lower confidence limit in the log-scale.
+ucl:
+  class: numeric
+  digits: 4
+  description: The upper confidence limit in the log-scale.
