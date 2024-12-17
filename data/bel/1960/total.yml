@@ -1,0 +1,33 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - analysis
+  - winter
+  hash: b8462ee2238c816c9ba9a76998349ad73ad2d0f2
+  data_hash: 99a811018cd36c3878581dddd73a9cb81eeddf94
+  name: total
+  title: Total results
+analysis:
+  class: character
+  description: The unique identifier of the analysis. Links to the analysis table.
+winter:
+  class: integer
+  description: The winter season. Refers to the year of January 1st.
+estimate:
+  class: numeric
+  digits: 4
+  description: The estimate of the parameter in the log-scale.
+se:
+  class: numeric
+  digits: 4
+  description: The standard error of the estimate in the log-scale.
+lcl:
+  class: numeric
+  digits: 4
+  description: The lower confidence limit in the log-scale.
+ucl:
+  class: numeric
+  digits: 4
+  description: The upper confidence limit in the log-scale.
