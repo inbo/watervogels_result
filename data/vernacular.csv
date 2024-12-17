@@ -1,0 +1,385 @@
+euring,language,vernacular
+20,deu,Sterntaucher
+20,eng,Red-Throated Diver
+20,fra,Plongeon catmarin
+20,nld,Roodkeelduiker
+40,deu,Eistaucher
+40,eng,Great Northern Loon
+40,fra,Plongeon imbrin
+40,nld,IJsduiker
+70,deu,Zwergtaucher
+70,eng,Little Grebe
+70,fra,Gèrbe castagneux
+70,nld,Dodaars
+90,deu,Haubentaucher
+90,eng,Great Crested Grebe
+90,fra,Grèbe huppé
+90,nld,Fuut
+100,deu,Rothalstaucher
+100,eng,Red-Necked Grebe
+100,fra,Grèbe jougris
+100,nld,Roodhalsfuut
+110,deu,Ohrentaucher
+110,eng,Horned Grebe / Slavonian Grebe
+110,fra,Grèbe esclavon
+110,nld,Kuifduiker
+120,deu,Schwarzhalstaucher
+120,eng,Eared Grebe
+120,fra,Grèbe à cou noir
+120,nld,Geoorde Fuut
+720,deu,Kormoran
+720,eng,Long-Tailed Cormorant
+720,fra,Grand Cormoran
+720,nld,Aalscholver
+950,deu,Rohrdommel
+950,eng,great bittern
+950,fra,Butor étoilé
+950,nld,Roerdomp
+1110,deu,Kuhreiher
+1110,eng,Western Cattle Egret
+1110,fra,Héron gardeboeufs
+1110,nld,Koereiger
+1190,deu,Seidenreiher
+1190,eng,little egret
+1190,fra,Aigrette garzette
+1190,nld,Kleine Zilverreiger
+1210,deu,Silberreiher
+1210,eng,Great White Egret
+1210,fra,Grande Aigrette
+1210,nld,Grote Zilverreiger
+1220,deu,Graureiher
+1220,eng,Grey Heron
+1220,fra,Héron cendré
+1220,nld,Blauwe Reiger
+1340,deu,Weißstorch
+1340,eng,White Stork
+1340,fra,Cigogne blanche
+1340,nld,Ooievaar
+1440,deu,Löffler
+1440,eng,Eurasian Spoonbill
+1440,fra,Spatule blanche
+1440,nld,Lepelaar
+1520,deu,Höckerschwan
+1520,eng,mute swan
+1520,fra,Cygne tuberculé
+1520,nld,Knobbelzwaan
+1530,deu,Zwergschwan
+1530,eng,Tundra Swan
+1530,fra,Cygne de Bewick
+1530,nld,Kleine Zwaan
+1540,deu,Singschwan
+1540,eng,Whooper Swan
+1540,fra,Cygne chanteur
+1540,nld,Wilde Zwaan
+1560,nld,Zwaangans
+1570,deu,Saatgans
+1570,eng,Taiga Bean-Goose
+1570,fra,Oie de la taïga
+1570,nld,Rietgans 
+1580,deu,Kurzschnabelgans
+1580,eng,Pink-Footed Goose
+1580,fra,Oie à bec court
+1580,nld,Kleine Rietgans
+1590,deu,Blässgans
+1590,eng,White-Fronted Goose
+1590,fra,Oie rieuse
+1590,nld,Kolgans
+1610,deu,Graugans
+1610,eng,Graylag Goose
+1610,fra,Oie cendrée
+1610,nld,Grauwe Gans
+1619,eng,Domesticated Geese
+1619,nld,Boerengans
+1620,deu,Streifengans
+1620,eng,bar-headed goose
+1620,fra,Oie à tête barrée
+1620,nld,Indische Gans
+1630,deu,Schneegans
+1630,eng,Snow Goose
+1630,fra,Oie des neiges
+1630,nld,Sneeuwgans
+1660,deu,Kanadagans
+1660,eng,Canada goose
+1660,fra,Bernache du Canada
+1660,nld,Grote Canadese Gans
+1663,eng,hutchins’s canada goose
+1663,fra,Bernache de Hutchins
+1663,nld,Kleine Canadese Gans
+1670,deu,Weißwangengans
+1670,eng,Barnacle Goose
+1670,fra,Bernache nonnette
+1670,nld,Brandgans
+1680,deu,Ringelgans
+1680,eng,Black Brant Goose
+1680,fra,Bernache cravant
+1680,nld,Rotgans
+1690,deu,Rothalsgans
+1690,eng,red-breasted goose
+1690,fra,Bernache à cou roux
+1690,nld,Roodhalsgans
+1700,deu,Nilgans
+1700,eng,Egyptian goose
+1700,fra,Ouette d'Egypte
+1700,nld,Nijlgans
+1710,deu,Rostgans
+1710,eng,ruddy shelduck
+1710,fra,Tadorne casarca
+1710,nld,Casarca
+1730,deu,Brandente
+1730,eng,Common Shelduck
+1730,fra,Tadorne de Belon
+1730,nld,Bergeend
+1750,eng,Domestic Muscovy Duck
+1770,deu,Brautente
+1770,eng,Wood Duck
+1770,fra,Canard carolin
+1770,nld,Carolina-Eend
+1780,deu,Mandarinente
+1780,eng,mandarin duck
+1780,fra,Canard mandarin
+1780,nld,Mandarijneend
+1790,deu,Pfeifente
+1790,eng,Eurasian Wigeon
+1790,fra,Canard siffleur
+1790,nld,Smient
+1820,deu,Schnatterente
+1820,eng,Gadwall
+1820,fra,Canard chipeau
+1820,nld,Krakeend
+1840,deu,Krickente
+1840,eng,"Teal, Common Teal"
+1840,fra,Sarcelle d'hiver
+1840,nld,Wintertaling
+1860,deu,Stockente
+1860,eng,Mallard/American Black Duck
+1860,fra,Canard colvert
+1860,nld,Wilde Eend
+1869,nld,Soepeend
+1890,deu,Spiessente
+1890,eng,Northern Pintail
+1890,fra,Canard pilet
+1890,nld,Pijlstaart
+1910,deu,Knäkente
+1910,eng,garganey
+1910,fra,Sarcelle d'été
+1910,nld,Zomertaling
+1940,deu,Löffelente
+1940,eng,"Shoveler, Northern Shoveler"
+1940,fra,Canard souchet
+1940,nld,Slobeend
+1960,deu,Kolbenente
+1960,eng,Red-crested Pochard
+1960,fra,Nette rousse
+1960,nld,Krooneend
+1980,deu,Tafelente
+1980,eng,common pochard
+1980,fra,Fuligule milouin
+1980,nld,Tafeleend
+2020,deu,Moorente
+2020,eng,Ferruginous Duck
+2020,fra,Fuligule nyroca
+2020,nld,Witoogeend
+2030,deu,Reiherente
+2030,eng,Tufted Duck
+2030,fra,Fuligule morillon
+2030,nld,Kuifeend
+2040,deu,Bergente
+2040,eng,Greater Scaup
+2040,fra,Fuligule milouinan
+2040,nld,Toppereend
+2060,deu,Eiderente
+2060,eng,Common Eider
+2060,fra,Eiderà duvet
+2060,nld,Eider
+2130,deu,Trauerente
+2130,eng,Black Scoter
+2130,fra,Macreuse noire
+2130,nld,Zwarte Zee-eend
+2150,deu,Samtente
+2150,eng,velvet scoter
+2150,fra,Macreuse brune
+2150,nld,Grote Zee-eend
+2180,deu,Schellente
+2180,eng,Common/Barrow's Goldeneye
+2180,fra,Garrot à il d'or
+2180,nld,Brilduiker
+2200,deu,Zwergsäger
+2200,eng,smew
+2200,fra,Harle piette
+2200,nld,Nonnetje
+2210,deu,Mittelsäger
+2210,eng,red-breasted merganser
+2210,fra,Harle huppé
+2210,nld,Middelste Zaagbek
+2230,deu,Gänsesäger
+2230,eng,Common Merganser
+2230,fra,Harle bièvre
+2230,nld,Grote Zaagbek
+2250,deu,Schwarzkopf-Ruderente
+2250,eng,Ruddy Duck
+2250,fra,Erismature rousse
+2250,nld,Rosse Stekelstaart
+4070,deu,Wasserralle
+4070,eng,water rail
+4070,fra,Râle d'eau
+4070,nld,Waterral
+4240,deu,Teichhuhn
+4240,eng,Moorhen
+4240,fra,Gallinule poule d'eau
+4240,nld,Waterhoen
+4290,deu,Bläßhuhn
+4290,eng,Eurasian Coot
+4290,fra,Foulque macroule
+4290,nld,Meerkoet
+4500,deu,Austernfischer
+4500,eng,Eurasian Oystercatcher
+4500,fra,Huîtrier pie
+4500,nld,Scholekster
+4560,deu,Säbelschnäbler
+4560,eng,pied avocet
+4560,fra,Avocette élegante
+4560,nld,Kluut
+4690,deu,Flußregenpfeifer
+4690,eng,little ringed plover
+4690,fra,Petit Gravelot
+4690,nld,Kleine Plevier
+4700,deu,Sandregenpfeifer
+4700,eng,Common Ringed Plover
+4700,fra,Grand Gravelot
+4700,nld,Bontbekplevier
+4850,deu,Goldregenpfeifer
+4850,eng,European Golden Plover
+4850,fra,Pluvier doré
+4850,nld,Goudplevier
+4860,deu,Kiebitzregenpfeifer
+4860,eng,Grey Plover
+4860,fra,Pluvier argenté
+4860,nld,Zilverplevier
+4930,deu,Kiebitz
+4930,eng,Green Plover
+4930,fra,Vanneau huppé
+4930,nld,Kievit
+4960,deu,Knutt
+4960,eng,Red Knot
+4960,fra,Bécasseau maubèche
+4960,nld,Kanoet
+4970,deu,Sanderling
+4970,eng,Sanderling
+4970,fra,Bécasseau sanderling
+4970,nld,Drieteenstrandloper
+5100,deu,Meerstrandläufer
+5100,eng,purple sandpiper
+5100,fra,Bécasseau violet
+5100,nld,Paarse Strandloper
+5120,deu,Alpenstrandläufer
+5120,eng,Lapland Dunlin
+5120,fra,Bécasseau variable
+5120,nld,Bonte Strandloper
+5170,deu,Kampfläufer
+5170,eng,Ruff
+5170,fra,Combattant varié
+5170,nld,Kemphaan
+5180,deu,Zwergschnepfe
+5180,eng,jack snipe
+5180,fra,Bécassine sourde
+5180,nld,Bokje
+5190,deu,Bekassine
+5190,eng,Common/Wilson'S Snipe
+5190,fra,Bécassine des marais
+5190,nld,Watersnip
+5290,deu,Waldschnepfe
+5290,eng,Eurasian Woodcock
+5290,fra,Bécasse des bois
+5290,nld,Houtsnip
+5320,deu,Uferschnepfe
+5320,eng,black-tailed godwit
+5320,fra,Barge à queue noire
+5320,nld,Grutto
+5340,deu,Pfuhlschnepfe
+5340,eng,Bar-tailed Godwit
+5340,fra,Barge rousse
+5340,nld,Rosse Grutto
+5410,deu,Großer Brachvogel
+5410,eng,Eurasian Curlew
+5410,fra,Courlis cendré
+5410,nld,Wulp
+5450,deu,Dunkler Wasserläufer
+5450,eng,Spotted Redshank
+5450,fra,Chevalier arlequin
+5450,nld,Zwarte Ruiter
+5460,deu,Rotschenkel
+5460,eng,"redshank, common redshank"
+5460,fra,Chevalier gambette
+5460,nld,Tureluur
+5480,deu,Grünschenkel
+5480,eng,Common Greenshank
+5480,fra,Chevalier aboyeur
+5480,nld,Groenpootruiter
+5530,deu,Waldwasserläufer
+5530,eng,Green Sandpiper
+5530,fra,Chevalier culblanc
+5530,nld,Witgat
+5560,deu,Flußuferläufer
+5560,eng,Common Sandpiper
+5560,fra,Chevalier guignette
+5560,nld,Oeverloper
+5610,deu,Steinwälzer
+5610,eng,Ruddy Turnstone
+5610,fra,Tournepierre à collier
+5610,nld,Steenloper
+5750,deu,Schwarzkopfmöwe
+5750,eng,Mediterranean Gull
+5750,fra,Mouette mélanocéphale
+5750,nld,Zwartkopmeeuw
+5820,deu,Lachmöwe
+5820,eng,Black-headed gull
+5820,fra,Mouette rieuse
+5820,nld,Kokmeeuw
+5900,deu,Sturmmöwe
+5900,eng,Mew Gull
+5900,fra,Goéland cendré
+5900,nld,Stormmeeuw
+5910,deu,Heringsmöwe
+5910,eng,Lesser Black-Backed Gull
+5910,fra,Goéland brun
+5910,nld,Kleine Mantelmeeuw
+5920,deu,Silbermöwe
+5920,eng,Herring Gull
+5920,fra,Goéland argenté
+5920,nld,Zilvermeeuw
+5926,deu,Mittelmeermöwe
+5926,eng,Yellow-legged/Caspian Gull
+5926,fra,Goéland leucophée
+5926,nld,Geelpootmeeuw
+5927,deu,Weißkopfmöwe
+5927,eng,Yellow-legged Gull
+5927,fra,Goéland pontique
+5927,nld,Pontische Meeuw
+6000,deu,Mantelmöwe
+6000,eng,greater black-backed gull
+6000,fra,Goéland marin
+6000,nld,Grote Mantelmeeuw
+8310,deu,Eisvogel
+8310,eng,European Kingfisher
+8310,fra,Martin-pêcheur d'Europe
+8310,nld,IJsvogel
+10190,deu,Gebirgsstelze
+10190,eng,Grey Wagtail
+10190,fra,Bergeronnette des ruisseaux
+10190,nld,Grote gele kwikstaart
+10500,deu,Wasseramsel
+10500,eng,Dipper
+10500,fra,Cincle plongeur
+10500,nld,Waterspreeuw
+20380,deu,Magellan-Gans
+20380,eng,Upland Goose
+20380,fra,Ouette de Magellan
+20380,nld,Magelhaengans
+20800,deu,Schwarzschwan
+20800,eng,Black Swan
+20800,fra,Cygne noir
+20800,nld,Zwarte Zwaan
+25700,deu,Rotschulterente
+25700,eng,Ringed Teal
+25700,fra,Canard à collier noir
+25700,nld,Ringtaling

@@ -1,0 +1,28 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting: analysis
+  hash: 77a8af90754b588e5b9b46c4505bad5c20580370
+  data_hash: 736d4237ec5cdae58fdde2619f77d5eedfa1f0e0
+  name: analysis
+  title: Analysis metadata
+  description: List the analyses and their parent analyses.
+species:
+  class: character
+  description: The species group identifier.
+locationgroup:
+  class: character
+  description: The location group identifier.
+model_type:
+  class: character
+  description: The type of the model.
+analysis:
+  class: character
+  description: The unique identifier of the analysis.
+fingerprint:
+  class: character
+  description: Status fingerprint of the analysis.
+status:
+  class: character
+  description: The status of the analysis.

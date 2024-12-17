@@ -1,0 +1,18 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting: euring
+  hash: 1b5c69410d303c2360d1b566a525e41bcfc110ae
+  data_hash: 89be6f795e6ce795069071fab039be8a84d6a3c2
+  name: species
+  title: List of species
+euring:
+  class: integer
+  description: The European bird ringing code.
+scientific:
+  class: character
+  description: The scientific name of the species.
+gbif:
+  class: character
+  description: GBIF identifier.

@@ -1,0 +1,18 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - analysis
+  - parent
+  hash: a96efa23ff44356e5b410227433ad0499e6768dd
+  data_hash: ce89a0b87d816fba7092dd190d9cfd2026b53890
+  name: relation
+  title: Relation between analyses
+  description: List the analyses and their parent analyses.
+analysis:
+  class: character
+  description: The unique identifier of the analysis.
+parent:
+  class: character
+  description: The parent analysis.

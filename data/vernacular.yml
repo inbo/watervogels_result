@@ -1,0 +1,20 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting:
+  - euring
+  - language
+  hash: dd3668cf92319e2818fbcb7aff8488b8214b73e1
+  data_hash: 9c2cd949ffaa1cfe81e9b1c6082332ad499e6a70
+  name: vernacular
+  title: Vernacular species names
+euring:
+  class: integer
+  description: The European bird ringing code.
+language:
+  class: character
+  description: Identifier of the language.
+vernacular:
+  class: character
+  description: The vernacular name of the species.

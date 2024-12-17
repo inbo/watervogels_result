@@ -1,0 +1,15 @@
+..generic:
+  git2rdata: 0.5.0
+  optimize: no
+  NA string: NA
+  sorting: external_code
+  hash: 1ed09c0c9ba69cfbbed9fef81475773729db4136
+  data_hash: 3ea811b8c58964e2a8f34e90a7561d94260667fe
+  name: locationgroup
+  title: List of locationgroups
+external_code:
+  class: character
+  description: The identifier of the location group.
+description:
+  class: character
+  description: Full name of the location group
